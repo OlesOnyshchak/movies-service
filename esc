@@ -1,0 +1,47 @@
+[33mcommit c24d0b1466243df0c624173d54bc4cd5f66be955[m
+Merge: 7ced149 fac29d7
+Author: Oles Onyshchak <ono@csia.net>
+Date:   Tue Apr 3 21:02:43 2018 +0300
+
+    Merge branch 'development' of https://github.com/OlesOnyshchak/movies-service into development
+     Please enter a commit message to explain why this merge is necessary,
+     especially if it merges an updated upstream into a topic branch.
+    
+     Lines starting with '#' will be ignored, and an empty message aborts
+     the commit.
+
+[33mcommit 7ced149e47d05509cc0be257430018de417cf7d6[m
+Author: Oles Onyshchak <ono@csia.net>
+Date:   Tue Apr 3 20:57:29 2018 +0300
+
+    [message]
+
+[33mcommit 56c3432dc7b34755e81915fae9e0b832874d419b[m
+Author: Oles Onyshchak <ono@csia.net>
+Date:   Tue Apr 3 20:52:02 2018 +0300
+
+    add c.txt file
+
+[33mcommit eb4f56dc1b3c0a64afaa8a46df32940476a89539[m
+Author: Oles Onyshchak <ono@csia.net>
+Date:   Tue Apr 3 21:00:25 2018 +0300
+
+    [master message]
+
+[33mcommit fac29d7dc40c43afe4778fec4d61aea854e44d1b[m
+Author: Oles Onyshchak <ono@csia.net>
+Date:   Tue Apr 3 20:57:29 2018 +0300
+
+    [message]
+
+[33mcommit a7059e9ed1a82402323526c27e982071ff034ddc[m
+Author: Oles Onyshchak <ono@csia.net>
+Date:   Tue Apr 3 20:52:02 2018 +0300
+
+    add c.txt file
+
+[33mcommit 6d852ea50c92f0884c10175f35147347b125f7d4[m
+Author: Oles Onyshchak <ono@csia.net>
+Date:   Fri Nov 3 15:39:44 2017 +0200
+
+    Initial commit
